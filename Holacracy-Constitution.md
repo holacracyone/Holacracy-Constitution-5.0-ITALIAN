@@ -19,11 +19,11 @@ un RUOLO è un costrutto organizzativo che una persona può ricoprire e quindi e
 
 la definizione di RUOLO consiste di un nome descrittivo ed uno o più dei seguenti componenti elementari:
 
-- **(a)** un ***PROPOSITO***, ovvero una capacità, un potenziale o un obiettivo che il RUOLO intende perseguire o esprimere.
-- **(b)** uno o più ***DOMINI***, che sono beni, processi o altre cose che il RUOLO controlla e regola in maniera esclusiva come sua proprietà, in linea con i propri PROPOSITI.
-- **(c)** una o più ***RESPONSABILITÀ***, che sono attività sistematiche che il RUOLO gestirà ed attuerà al servizio di altri RUOLI o comunque per supportare il proprio PROPOSITO.
+- **(a)** un PROPOSITO, ovvero una capacità, un potenziale o un obiettivo che il RUOLO intende perseguire o esprimere.
+- **(b)** uno o più DOMINI, che sono beni, processi o altre cose che il RUOLO controlla e regola in maniera esclusiva come sua proprietà, in linea con i propri PROPOSITI.
+- **(c)** una o più RESPONSABILITÀ, che sono attività sistematiche che il RUOLO gestirà ed attuerà al servizio di altri RUOLI o comunque per supportare il proprio PROPOSITO.
 
-un RUOLO può anche detenere una o più “POLICY”; queste rappresentano conferimenti o vincoli di autorità, o anche regole speciali che si applicano all’operatività specifica del RUOLO stesso.
+un RUOLO può anche detenere una o più POLICY; queste rappresentano conferimenti o vincoli di autorità, o anche regole speciali che si applicano all’operatività specifica del RUOLO stesso.
 
 ### 1.2 RESPONSABILITÀ del ROLE LEAD
 
@@ -37,8 +37,8 @@ sei responsabile di confrontare l’attuale PROPOSITO espresso dal tuo RUOLO e l
 
 sei responsabile di considerare costantemente il modo di perseguire il PROPOSITO ed assolvere ogni RESPONSABILITÀ del tuo RUOLO, grazie alla definizione di:
 
-- **(a)** ***PROSSIME AZIONI***, che sono azioni utili che puoi intraprendere immediatamente, almeno in assenza di altre PRIORITÀ;
-- **(b)** ***PROGETTI***, che rappresentano risultati specifici più complessi ed utili da perseguire, su cui lavorare, almeno in assenza di altre PRIORITÀ.
+- **(a)** PROSSIME AZIONI, che sono azioni utili che puoi intraprendere immediatamente, almeno in assenza di altre PRIORITÀ;
+- **(b)** PROGETTI, che rappresentano risultati specifici più complessi ed utili da perseguire, su cui lavorare, almeno in assenza di altre PRIORITÀ.
 
 #### 1.2.3 scomporre i PROGETTI
 
@@ -64,7 +64,7 @@ un CERCHIO interno ad un RUOLO viene considerato un SOTTO-CERCHIO del CERCHIO pi
 
 #### 1.3.2 dare in delega i DOMINI
 
-quando un CERCHIO cede un proprio DOMINIO ad uno dei suoi RUOLI, ogni ROLE-LEAD di quel RUOLO può controllare tale DOMINIO per conto del CERCHIO. un CERCHIO può trasferire ai propri RUOLI solamente DOMINI afferenti al CERCHIO stesso, o DOMINI che nascono e sono rilevanti solamente all’interno di processi circoscritti a quel CERCHIO.
+quando un CERCHIO cede un proprio DOMINIO ad uno dei suoi RUOLI, ogni ROLE LEAD di quel RUOLO può controllare tale DOMINIO per conto del CERCHIO. un CERCHIO può trasferire ai propri RUOLI solamente DOMINI afferenti al CERCHIO stesso, o DOMINI che nascono e sono rilevanti solamente all’interno di processi circoscritti a quel CERCHIO.
 
 una volta che un RUOLO ha il controllo di un DOMINIO, può creare POLICY per governare tale DOMINIO all’interno della propria attività di GOVERANCE. comunque, il CERCHIO che ha delegato il DOMINIO detiene ugualmente il diritto di definire proprie POLICY di governo su quello stesso DOMINIO. in caso di conflitto, le POLICY definite dal CERCHIO prevalgono su quelle definite dal RUOLO.
 
@@ -186,7 +186,7 @@ il FACILITATORE di un CERCHIO è responsabile della conduzione delle RIUNIONI TA
 in assenza di POLICY che affermino il contrario, la persona che facilita la riunione deve attuare il seguente processo:
 
 - **(a) check-in round:** ciascun partecipante, quando è il proprio turno, condivide il proprio stato o esprime qualunque pensiero abbia voglia di comunicare per la riunione. non sono consentite risposte.
-- **(b) revisione delle CHECKLIST:** ciascun partecipante verifica pubblicamente il completamento di ciascuna attività ricorrente su cui riferisce regolarmente per i propri RUOLI nel meeting.
+- **(b) revisione delle CHECK-LIST:** ciascun partecipante verifica pubblicamente il completamento di ciascuna attività ricorrente su cui riferisce regolarmente per i propri RUOLI nel meeting.
 - **(c) revisione delle METRICHE:** ciascun partecipante condivide le METRICHE su cui riferisce regolarmente per i propri RUOLI nel meeting.
 - **(d) aggiornamento dei progressi:** ciascun partecipante evidenzia i progressi fatti che riguardano qualunque PROGETTO o altra iniziativa su cui riferisce regolarmente per i propri RUOLI nel meeting. i partecipanti possono condividere solo i progressi fatti dal precedente incontro e/o report e non lo stato di avanzamento generale di ogni attività.
 - **(e) costruzione dell'agenda:** i partecipanti costruiscono un’agenda di questioni da processare durante il meeting. ciascun partecipante può richiedere l’aggiunta di un qualsivoglia numero di punti in agenda, fornendo un breve riferimento per ciascuno di essi. non sono consentite spiegazioni o discussioni in questa fase. l’aggiunta di punti agenda da parte dei partecipanti è consentita anche successivamente a questa fase, durante gli intervalli di processamento dei punti agenda già esistenti.
@@ -274,7 +274,7 @@ i CIRCLE MEMBER di un CERCHIO includono tutti i PARTNER col RUOLO di CIRCLE LEAD
 
 #### 5.1.1 CIRCLE REP
 
-ogni CIRCLE MEMBER id un CERCHIO può richiedere in qualunque momento una votazione per eleggere o rimpiazzare la figura del CIRCLE REP di quel CERCHIO, la quale è prevista per aiutare a rappresentare quel CERCHIO all’interno di ogni CERCHIO più ampio che lo contiene. la persona così eletta energizzerà il RUOLO di CIRCLE REP di quel CERCHIO, col seguente PROPOSITO: “veicolate e risolte tutte le TENSIONI che richiedono di essere processate in un CERCHIO più ampio”, e con le seguenti RESPONSABILITÀ:
+ogni CIRCLE MEMBER di un CERCHIO può richiedere in qualunque momento una votazione per eleggere o rimpiazzare la figura del CIRCLE REP di quel CERCHIO, la quale è prevista per aiutare a rappresentare quel CERCHIO all’interno di ogni CERCHIO più ampio che lo contiene. la persona così eletta energizzerà il RUOLO di CIRCLE REP di quel CERCHIO, col seguente PROPOSITO: “veicolate e risolte tutte le TENSIONI che richiedono di essere processate in un CERCHIO più ampio”, e con le seguenti RESPONSABILITÀ:
 
 - **(a)** fare in modo di comprendere le TENSIONI rilevate dai ROLE LEAD all’interno del CERCHIO.
 - **(b)** riconoscere le TENSIONI che devono essere processate più appropriatamente in un CERCHIO più ampio che contiene il proprio CERCHIO.
@@ -443,7 +443,7 @@ ciascun partecipante ha la possibilità di richiedere al SEGRETARIO di leggere l
 
 si verifica un PROCESS BREAKDOWN allorquando un CERCHIO mostri una linea di condotta o un risultato che viola le regole di questa COSTITUZIONE. il FACILITATORE o il SEGRETARIO di un CERCHIO hanno l’autorità di dichiarare tale evento quando si verifica all’interno del proprio CERCHIO o SOTTO-CERCHIO, facendo appello al proprio ragionevole giudizio.
 
-#### 5.5.1 BREAKDOWN per fallimento della GOVERNANCE
+#### 5.5.1 breakdown per fallimento della GOVERNANCE
 
 il FACILITATORE di un CERCHIO potrà ulteriormente dichiarare un PROCESS BREAKDOWN del CERCHIO nel caso in cui una specifica PROPOSTA fallisca nel suo intento di pervenire ad una soluzione, a seguito di una ragionevole quantità di tempo e risorse impegnate per tentare di raggiungerla.
 
