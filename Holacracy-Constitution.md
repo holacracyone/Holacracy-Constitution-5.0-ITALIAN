@@ -78,7 +78,7 @@ una volta adottata la presente COSTITUZIONE, i RATIFICATORI possono definire una
 
 #### 1.3.4 collegamenti ai CERCHI
 
-un RUOLO può essere collegato anche con un altro CERCHI nel caso in cui venga invitato attraverso una POLICY di quel CERCHIO o di qualunque suo SUPER-CERCHIO.
+un RUOLO può essere collegato anche con un altro CERCHIO nel caso in cui venga invitato attraverso una POLICY di quel CERCHIO o di qualunque suo SUPER-CERCHIO.
 
 una volta stabilito questo collegamento, tale RUOLO viene considerato parte della GOVERNANCE del CERCHIO con cui è collegato. quest’ultimo può apportare delle aggiunte a tale RUOLO che potrà poi anche modificare (ma solo limitatamente alle aggiunte apportate). in ogni caso, tale CERCHIO non potrà modificare né cancellare nulla di ciò che è stato aggiunto da altri CERCHI (che ne avevano l’autorità) e viceversa. l’autorità di aggiungere o apportare cambiamenti alle assegnazioni di un RUOLO è limitata per ogni CERCHIO, sulla base dei link esistenti e delle rispettive aggiunte apportate dai vari CERCHI collegati a quel RUOLO. questo tipo di collegamento fra CERCHIO e RUOLO non rende il primo un SUPER-CERCHIO per il secondo e, ugualmente, alcun CERCHIO interno al RUOLO può essere considerato un SOTTO-CERCHIO del CERCHIO a cui il RUOLO è collegato.
 
